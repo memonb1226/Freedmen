@@ -1,0 +1,3 @@
+bank.xlsx holds records for five randomly chosen former slaves from the Freedman's savings bank. slave_schedule.xlsx holds records for corresponding records from the 1860 slave schedule, matched by slave holder. The variable "ID" connects these two datasets.
+
+Of the five former slaves I was able to identify 3 former owners using a combination of name and place of birth/residence.
